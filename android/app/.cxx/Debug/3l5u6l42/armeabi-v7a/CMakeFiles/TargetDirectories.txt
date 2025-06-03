@@ -1,0 +1,2 @@
+C:/Users/Ahammed Sajal/FLUTTER APPS/admin app/Admin_App_V4.4.3/android/app/.cxx/Debug/3l5u6l42/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Ahammed Sajal/FLUTTER APPS/admin app/Admin_App_V4.4.3/android/app/.cxx/Debug/3l5u6l42/armeabi-v7a/CMakeFiles/rebuild_cache.dir

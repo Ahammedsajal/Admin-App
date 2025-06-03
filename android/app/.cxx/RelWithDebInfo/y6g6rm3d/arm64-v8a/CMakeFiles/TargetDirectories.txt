@@ -1,0 +1,2 @@
+C:/Users/Ahammed Sajal/FLUTTER APPS/admin app/Admin_App_V4.4.3/android/app/.cxx/RelWithDebInfo/y6g6rm3d/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Ahammed Sajal/FLUTTER APPS/admin app/Admin_App_V4.4.3/android/app/.cxx/RelWithDebInfo/y6g6rm3d/arm64-v8a/CMakeFiles/rebuild_cache.dir
