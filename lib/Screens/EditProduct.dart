@@ -530,7 +530,6 @@ class _EditProductState extends State<EditProduct>
       productImageUrl = widget.model!.image!;
       productImageRelativePath = widget.model!.relativeImagePath!;
     }
-   if (taxesList.isEmpty) return;   // no taxes configured – nothing to map
 
     if (widget.model!.description != null) {
       description = widget.model!.description;
